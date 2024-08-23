@@ -84,11 +84,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - **f(Y)_Solutions**: For providing the training module.
 - **Contributors**: 
-  - [Anirudh Aravalli]((https://github.com/Tharuntejandhe))
+  - [Tharun tej andhe]((https://github.com/Tharuntejandhe))
 
 ## Author
 
-Anirudh Aravalli - [tharuntejandhe@gmail.com](mailto:tharuntejandhe@gmail.com)
+Tharun tej andhe - [tharuntejandhe@gmail.com](mailto:tharuntejandhe@gmail.com)
 
 ## Conclusion
 
