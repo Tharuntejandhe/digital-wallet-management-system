@@ -29,7 +29,7 @@ A digital wallet management system implemented in C++ that allows users to manag
 1. **Clone the Repository**:
    First, clone the repository to your local machine:
    ```sh
-   git clone https://github.com/AnirudhAravalli/Digital-Wallet-Management-System.git
+   git clone https://github.com/Tharuntejandhe/digital-wallet-management-system.git
 
 2. **Navigate to the project directory:**
 
